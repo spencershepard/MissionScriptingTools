@@ -36,6 +36,7 @@ mist = {}
 mist.majorVersion = 4
 mist.minorVersion = 5
 mist.build = 122
+--https://github.com/spencershepard/MissionScriptingTools/tree/rotorops
 
 -- forward declaration of log shorthand
 local log
